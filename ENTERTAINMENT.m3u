@@ -1,0 +1,63 @@
+
+///// ENTERTAINMENT /////
+#EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE", Sony GEM
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE", K+ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-id="kplus.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg",K+ backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/NHK-World.png", NHK World Japan
+http://liveaneviadev.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLEe" tvg-logo="https://github.com/Qingtvnew/test/raw/main/nhk-premium.png", NHK Premium 
+http://liveaneviadev.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/arirang.png", Arirang
+http://liveaneviadev.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+
+/////🕺🥳 LIFESTYLE /////
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/tlc.png", TLC
+
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/afn.png",AFN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Safari/537.36
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+http://176868.cloud/1d136a17f9bb080df550c20f01ae7d80/a2142e9e39fcb740164dc9a0e031727e/d9723c01d6f1c57d51d5581e4e1fb72d/index.m3u8
+
+#EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE",The Food Network 
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://i.postimg.cc/T3r0rwX4/Lifetime.png", Lifetime V+
+http://liveaneviadev.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV
+https://raw.githubusercontent.com/eepunx/cancan/main/hgtv
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/theGobRoss.webp",The Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://www.dropbox.com/s/c9l00jrb7qc7h48/MNCLifestyleFashion.png?dl=1", Lifestyle and Fashion V+
+http://liveaneviadev.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
