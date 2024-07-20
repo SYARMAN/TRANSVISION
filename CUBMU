@@ -1,0 +1,627 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ba3e153ef8956d6e2b0684fcf74f58f&key=dbc28cb5c6426080f984a5b6d436bb30
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] RCTI HD
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=88f6c7cbd793374cb5f12d7e26dcd63b&key=e82daa7c7bfb03d99327463fdbd37336
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] GTV HD
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=828e0aba9825c3546a2831e4c0c36f7f&key=f85d3dcd38981368ab3da597e97ebdcc
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.mncnow.id/images/channel/ba065727/a4fd.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] MNC TV HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a31cf5136789514b7e12b9cc99307c84&key=980e54d671ffc2b2f4cf54e75cae0ac2
+#EXTINF:-1 tvg-id="INews.id" tvg-logo="https://static.mncnow.id/images/channel/ab4eed7b/ddc6.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] INEWS HD
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4310edb8b9ffe79abb40bacafa778ec3&key=aebb7e86d8a336d9a93d3dd8a41153cf
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://static.mncnow.id/images/channel/8f231a4a-387.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] ANTV
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334950781f60a66f5e58324b70ac675d&key=73caca97be8999ce9cfeb3babad8669d
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://static.mncnow.id/images/channel/2428da08-ce0.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] TRANS TV
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=26bd60e03bbed7819eea0b27075a1897&key=d221ba6a6ab66e3083c001d2c4a3e5c5
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://static.mncnow.id/images/channel/dd26ec44-1de.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] TRANS 7
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90204c05545f95a262bb0d3ac45de870&key=0e80f2a19fdf8da476bf695cd9570bb2
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://static.mncnow.id/images/channel/9360c10a-308.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] TV ONE
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4497473c5b978655ce62de7873e04174&key=6af319f8d82351f8c3b18c9abdfdef4d
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://static.mncnow.id/images/channel/827de67d-d31.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] METRO TV
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=30384ee5424eab4afdff34d7a59e0ef9&key=5f3d2f2c194266ae9a28210f8976cbe0
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://static.mncnow.id/images/channel/79b8e2c9-bdb.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] RTV
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=493fd10e609dd02ae97964f438e7e530&key=695cf9896182c52f1c3a25820e7778f5
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.mncnow.id/images/channel/113c522c-c79.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] KOMPAS TV
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ca65af90adc5e3ddb180e16426bb67da&key=b6f87a3a128dbd75ead036f596edeae7
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://static.mncnow.id/images/channel/5435e889-7ef.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] TVRI
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2c9087e5432ce2c2f4ae8e1fd77ae4c&key=f7a50262991ca7d505fce1572a7f0c2a
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://static.mncnow.id/images/channel/c9782268-065.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] JAK TV
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=10e203f655014b5d18b0c85a6c72c809&key=acdcd0b65014e4929c6296171bdfebad
+#EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://static.mncnow.id/images/channel/1c485c69/3c2e.PNG" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] JTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c6bb2f182bc8c5905c2636153ac36249&key=152b81c5cd1306bb83993290193063cb
+#EXTINF:-1 tvg-id="BaliTV.id" tvg-logo="https://static.mncnow.id/images/channel/f52228f1/8aae.PNG" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] BALI TV
+https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eb7c09e964e89e668266ea31f2710ffa&key=0a9832e32206fff46674b8210c9b6897
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://static.mncnow.id/images/channel/a41c4e81-417.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] DAAI TV
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a7fd43751f24d64a16f6f4d289ebd395&key=2ef65773d541ccaf8ba61a3d141711f0
+#EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://static.mncnow.id/images/channel/c403f3ca/0649.PNG" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] BANDUNG TV
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a2fc87440d5dc4bcd4dbc55e75ccf057&key=3a07bba8c6f8bf5ae4e39763b6fcc1f9
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://static.mncnow.id/images/channel/66544aea-676.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] MNC SHOP [NET]
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=009a1278e0755ed82e70df01460e90c3&key=12d010a918431785676c4fd63ef648bd
+#EXTINF:-1 tvg-id="FMN.id" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png", [ENTERTAINMENT] FMN
+https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=958df746f24f371dffc95e7cd714fbd7&key=fbd6e4540b9a917a27da8be01542f53f
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://telegra.ph/file/e6112cb983d4e23547943.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png", [ENTERTAINMENT] CINEMA WORLD
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57d2ac9210cfbca3596cc679a01c8b29&key=d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png", [ENTERTAINMENT] AFN
+https://nyanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9c123fbf587e6524b2706bd960c7f67&key=d2aaac6845b33627cdce1272feac5acc
+#EXTINF:-1 tvg-id="TLC.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png", [ENTERTAINMENT] TLC
+https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c704a6e7fb9e79809a542dcb04583835&key=570a676fa8b2d5433789ebe8a07063cc
+#EXTINF:-1 tvg-id="HGTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png", [ENTERTAINMENT] HGTV
+https://nyanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0bea88ab972e06760a04712cc423d841&key=4039d607f88f1b1f677e4beb6ee66637
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://static.mncnow.id/images/channel/fc9509a8/533d.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] MUSIC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a17bbb3d95ba22f0fa680bba609340f6&key=cb682391dc1830d2cec8ca9d4ce681cc
+#EXTINF:-1 tvg-id="Ie.id" tvg-logo="https://static.mncnow.id/images/channel/9b7c2209/a71c.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] INFOTAINMENT
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=50056951f6d5f5fbaf286cd99c965379&key=4ec78e3b7d66d1db3815a127f792b604
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://static.mncnow.id/images/channel/4dc384c7/b606.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] VISION PRIME
+https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e97187c5c7978ad9fc48943df7ed9045&key=36af3adb3e7c4edd9286e7412fc5f596
+#EXTINF:-1 tvg-id="Ent.id" tvg-logo="https://static.mncnow.id/images/channel/f862ee91/49c8.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] ENTERTAINMENT
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57d2ac9210cfbca3596cc679a01c8b29&key=d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="OKTV.id" tvg-logo="https://static.mncnow.id/images/channel/2bda2a47/2589.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] OK TV
+https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d5297a84f8b2de977f07286345c591&key=bdb773d6d25303b75a396b8040cfaf8c
+#EXTINF:-1 tvg-id="AXNIndonesia.id" tvg-logo="https://static.mncnow.id/images/channel/baa0f848-0c1.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] AXN
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6344a8272809245e3fa9d926099528c3&key=93b6c4ff420c6864a6294f6d223d9b2c
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://static.mncnow.id/images/channel/39b367ac-396.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] ANIMAX
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fe761e8fac143d40510e70825dad0b20&key=eed9fb0b4e254e9104ef98e8a7035387
+#EXTINF:-1 tvg-id="Kix.hk" tvg-logo="https://static.mncnow.id/images/channel/79b058a9-62b.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] KIX
+https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=355764373f8a926534fbc42666ab7b13&key=382106ed34f0330b073b1fa940c1516e
+#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-logo="https://static.mncnow.id/images/channel/70659791-3e9.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] WARNER TV
+https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=742131dbcb507c31502eb60b32be6bb8&key=209f03c525bbbc9fd8652aa7a9cc5cb0
+#EXTINF:-1 tvg-id="TVNAsia.hk" tvg-logo="https://static.mncnow.id/images/channel/c8175134-0c6.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] TVN
+https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7b212a67ce3e8b056af85b890e3de811&key=428a68fac3d97a5fae0f695edcee6346
+#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-logo="https://static.mncnow.id/images/channel/b1afa77f-968.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] ONE
+https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8bd8efd4840c37f50f8a053f92e9b015&key=7f8b3b508bb394919dab1b6e91e7bacf
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-logo="https://static.mncnow.id/images/channel/c93dd0f2/9f13.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] LIFETIME
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=78d17d4851a5e9eede96f283b15ec053&key=c5ae33f70cc967fe107b35eb7225f52a
+#EXTINF:-1 tvg-id="Hits.sg" tvg-logo="https://static.mncnow.id/images/channel/d9a315f8-c10.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] HITS
+https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1b411a92f60bd9751d9637e849d3a632&key=d9bbfb8e1d34089daf5cc0c3ca17c694
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://static.mncnow.id/images/channel/4c2a5207/e9e0.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] TV5 MONDE
+https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ab3b56e3b5bd35ee40d1f18a8e2a73f0&key=1ae67b4eeeb450fd430e3540694abc6a
+#EXTINF:-1 tvg-id="JiangsuTVInternational.cn" tvg-logo="https://static.mncnow.id/images/channel/aecd009c-b38.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] JIANGSU TV
+https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0e9df1ff194224dd922a4ee50a083ea8&key=1f822977efb4700dfef3aef29ce53d98
+#EXTINF:-1 tvg-id="HunanTVInternational.cn" tvg-logo="https://static.mncnow.id/images/channel/ba0a7c91-5d2.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] HUNAN TV
+https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a5b643fdc1b2cb4684bd859f699dce2c&key=4605d2990f4b1d7c4049cdd83529f3a7
+#EXTINF:-1 tvg-id="DragonTVInternational.cn" tvg-logo="https://static.mncnow.id/images/channel/5ab9a63a-357.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] SHANGHAI DRAGON TV
+https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8e1f7cdc8ed2515f795b3a8ff2713cb&key=36b8461eccdafbaa9ab41785123c9d36
+#EXTINF:-1 tvg-id="XingKongInternational.cn" tvg-logo="https://static.mncnow.id/images/channel/e25811e5-f79.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] XING KONG TV
+https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6935d1a7c21abca8907b1a7b63f2d2c9&key=1842c9b39c3558bb4c7dbb6e400561aa
+#EXTINF:-1 tvg-id="AnhuiTV.cn" tvg-logo="https://static.mncnow.id/images/channel/77140c6a-657.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[ENTERTAINMENT] ANHUI TV
+https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=17340c4223a4674b1b7da8d8d9e11174&key=11a73aad2c75ddf338840b08fb915993
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://static.mncnow.id/images/channel/55d5c9c2/57c2.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KIDS] KIDS TV
+https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ff6154f28d6950063f9f5b4db7be009&key=93cac38fd15124acce5b658896df0a25
+#EXTINF:-1 tvg-id="BoomerangAsia.sg" tvg-logo="https://static.mncnow.id/images/channel/cafd61dd-327.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KIDS] BOOMERANG
+https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194891b41223a5f1ec2beff1c95e2f53&key=eeb1fb2ec011f9563653495f9ac427b1
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo="https://static.mncnow.id/images/channel/230fefb7-6d2.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KIDS] CBEEBIES
+https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e179c8d2ae0ddf520b905823d417f028&key=327c62356a811a1c0802cf0c4f5a1d50
+#EXTINF:-1 tvg-id="MiaoMi.hk" tvg-logo="https://mncvision.id/userfiles/image/channel/miawme150x150.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KIDS] MIAOMI
+https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fc62ba18b44dce828a5fb8a213d6e5b&key=02a01282f77edf03e964e713fb447e93
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KIDS] BABYTV
+https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=785024598882dc751652cea2bce44b8e&key=56a40e58acd59965e865947dd719108d
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KIDS] NICKELODEON
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f71ca09f57ea09e27ee63d7d1f0d0e31&key=8a07ef45b4a18973ef12f8da482dcec0
+#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KIDS] NICK JR
+https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=37ef71f668c1c1126595be0f557587f5&key=008df022d78a9ec318a745cf8365b048
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://static.mncnow.id/images/channel/a267615b-648.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KIDS] CARTOON NETWORK
+https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=355764373f8a926534fbc42666ab7b13&key=382106ed34f0330b073b1fa940c1516e
+#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-logo="https://static.mncnow.id/images/channel/21a697db/5308.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] WARNER TV
+https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=06e7e95fdb30086d24111f300c9d91f1&key=9431050f760f692bfd396bbd84cb5161
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://static.mncnow.id/images/channel/fda7ed82-e66.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] THRILL
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=13aecb26aeee22bc86920045f22d134d&key=80aa44d998c7c0cc221c96d26730fe9b
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://static.mncnow.id/images/channel/b8e4303e-b30.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] CELESTIAL MOVIES
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=12da619438b3748da206142216d0943b&key=6958377109d34561ad20645319cec62c
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-logo="https://static.mncnow.id/images/channel/69f66a75-3fa.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] CELESTIAL CLASSIC MOVIE [CCM]
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9e7df70530006bef067327cefde82c0e&key=b92b6a2aba522bd9bb2d07cf241e7398
+#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://static.mncnow.id/images/channel/6b1a4597-db2.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] ZEE BIOSKOP
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=45c004003b09719751adb885d28d491f&key=fe82bc3ffe00477c833812fae74caed7
+#EXTINF:-1 tvg-id="TVNMovies.hk" tvg-logo="https://static.mncnow.id/images/channel/21b89a11-fdf.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] TVN MOVIES
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d9684b1737e3b68801b4cff7225d4bb&key=902e7634820c26a8ff36f3708f0191d4
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-logo="https://static.mncnow.id/images/channel/42f3d041-258.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] HITS MOVIES
+https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eeea0c2986e91a13eacd590ad1ebfe43&key=0acc16bd84921489f67bad19e4099cae
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] HBO
+https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ebe6190a3cfbbed4ec34e4d9c7a30e1e&key=d161b1f737e2aee9501149406c8abe9e
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] HBO FAMILY
+https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b64eee6360b118d0d90329cc2c9e4c60&key=4e97aa6422b26ffb372647dbd0a7683c
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] HBO SIGNATURE
+https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c256f70830647e4bdf654d86e710ed5&key=fe41e9bcbae52f9d233407f7488bca5f
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] HBO HITS
+https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fba45325e2cd8355972ede4981f43b2a&key=d88a4bdd67f89cd21eb074c81de1b994
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] CINEMAX
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e5c40292f8d01b1d5f0c6b3904d73104&key=bcb2ac12e11c69594ba217bfe8714efe
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_13.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] GALAXY
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7bc29ff5f405dff971e3a326223fe26c&key=06849a953a38da997b31bacf433cc74a
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_12.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] GALAXY PREMIUM
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1a551e30ef88a5a121dcea6a74a3aee7&key=b0f3de006d6e31e967a5bc41be086e64
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MOVIES] IMC
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4497473c5b978655ce62de7873e04174&key=6af319f8d82351f8c3b18c9abdfdef4d
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://static.mncnow.id/images/channel/4690d2a7/9c2e.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] METRO TV
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=493fd10e609dd02ae97964f438e7e530&key=695cf9896182c52f1c3a25820e7778f5
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://static.mncnow.id/images/channel/3a6ab006/f9c1.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] KOMPAS TV
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90204c05545f95a262bb0d3ac45de870&key=0e80f2a19fdf8da476bf695cd9570bb2
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://static.mncnow.id/images/channel/9c22eab0/a044.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] TV ONE
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d022ff3be9391a16a8436261059806b0&key=e6dd32d6a257f900acb52a82d898bb81
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://static.mncnow.id/images/channel/b9b6e2a5-29c.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] BERITA SATU
+https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=26cc3e3343858d3986322f16e10b5823&key=0ad735e707e1c79bc550efa49f2ea4bd
+#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://static.mncnow.id/images/channel/7c3f54e6/fd9f.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] MNC NEWS
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fbdbe252e6354b175852d1929c42d848&key=7a8bb14fcf8fd0b896ab41c29a78aae0
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-logo="https://static.mncnow.id/images/channel/4ef9d433-054.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] IDX CHANNEL
+https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfb76a400a6af053881f7fff14483323&key=aa5af1f3edb3abd10a68b8f7e7c0b1ad
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://static.mncnow.id/images/channel/49107d4c/68e8.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] SEA TODAY
+https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=59b86c4bc0dc5de64bdfafe5152cc8f1&key=014e41ad9ec2997fe29d3c3bc372491f
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://static.mncnow.id/images/channel/95fb1022-db1.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] AL JAZEERA ENGLISH
+https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ec5705bb82f3e66b054de048287fd3a4&key=7819a6f6427b7c7764a514abe8173b02
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://static.mncnow.id/images/channel/1765672d-a67.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] RT ENGLISH
+https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2968b8d8884c66ebfc54b53bee1070ee&key=7182638b386cb06e211b6771c1a10861
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://static.mncnow.id/images/channel/b9b039ad-2fa.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] FRANCE 24
+https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4472db9a36186f11703d04a4adbbf279&key=f00791bacba0575927de6cf15cfcd9d9
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://static.mncnow.id/images/channel/ea6a4d6d-345.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] DW
+https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2664cc86dfb0f48e6b3f792dd4e8983c&key=5fc5b980db05c4450482b4bd7cda39fe
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://static.mncnow.id/images/channel/db4babda-04b.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] TRT WORLD
+https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=725ccd861fa88300c0e1d258b20bc9b1&key=ab190baece633191b7201cb96d065bbb
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://static.mncnow.id/images/channel/d1c65c8e/70ef.PNG" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] CGTN
+https://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] CNN [ID]
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=faa79feb03b3ebf0e4566e649cb938f0&key=2d5e77223719fb1af573cbeab56bb16a
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-logo="https://mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] CNN [INTERNATIONAL]
+https://nyanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] CNBC [ID]
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6de9ad0c51e2673f543b71ac5a54211&key=533886c95819317d48fd079d78c3d757
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] CNBC [INTERNATIONAL]
+https://nyanv-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9bc202de2b177ff5bb64dacb0ab3fd8d&key=d71b81338f16bf009608665b08a49197
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_351.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] ARIRANG
+https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=272401a5b200375e49a4712cf39f369c&key=39d7bc2faf1f13b8a2bb106b617e604a
+#EXTINF:-1 tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://mncvision.id/userfiles/image/channel/bloomberg.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] BLOOMBERG
+https://nyanv-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9acec565e4d5e994523b3b18e0a7521e&key=a16eb03e31229b194ec4b45c3cb80b46
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://telegra.ph/file/477be4ccd031bc7bf02ea.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] EURO NEWS
+https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a547a31e9c19c36f94d120a83f61f92d&key=7e86ccfba721e3297b73fc9e2b07628d
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] FOX NEWS
+https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82e458dc5613eaaa2608de8d190f1637&key=c25659bd78913e93e3fddace99a964c1
+#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] BBC WORLD NEWS
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a2dd864fc95998efd52979e5f732e029&key=4f705ca934ba3ef5513fea618d4f938d
+#EXTINF:-1 tvg-id="ABCAustraliaAsia.au" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_350.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] ABC AUSTRALIA
+https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e1ae750e09889a610744516182c8e95a&key=2f7aa7b21102d05a986a4212c4afa06f
+#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] CNA
+https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62ce01c83653c3f20af6bcafc6979fe6&key=f1325e71f440c06f7e93d7551cb4014a
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] NHK WORLD TV
+https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a56d6a274eb073cdf94754bd0ffe3335&key=10ad173ac7249bc42c8390c090ca09e3
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://mncvision.id/userfiles/image/channel/nhk_150.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NEWS] NHK WORLD PREMIUM
+https://live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d4109bac9f47008baeee3a85af300872&key=f6e662900a61abd5716f061459f86b7d
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png", [SPORTS] beIN Sports 1
+https://nyanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5b9753643572b0c6c467793b50900029&key=ebeda1cf36dae2b0bdedf1065129ea93
+#EXTINF:-1 tvg-id="BeINSports3Indonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_306.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] beIN Sports 3
+https://nyanv-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d4109bac9f47008baeee3a85af300872&key=f6e662900a61abd5716f061459f86b7d
+#EXTINF:-1 tvg-id="beINSports4USA.us" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] beIN Sports 4
+https://stream-cdn.mncnow.id/live/eds/BeIN4/sa_dash_vmx/BeIN4.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d2159ffe3be22ed4916a6abe4d58d265&key=3e4efcec08d5d5c18a403b7048a43638
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] FIGHT SPORTS
+https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57d2ac9210cfbca3596cc679a01c8b29&key=d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="SPOTV.hk" tvg-logo="https://static.mncnow.id/images/channel/428ce1cc/0c26.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] SPOTV
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57d2ac9210cfbca3596cc679a01c8b29&key=d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="SPOTV2.hk" tvg-logo="https://static.mncnow.id/images/channel/9158194b/acc8.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] SPOTV 2
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=531c6d50e3e9f9ba66446f624f492289&key=d769d9ae238bdd424f8bcdcdc9a3801f
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://static.mncnow.id/images/channel/ae834449/c8f5.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] MNC SPORTS
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=45fec91ce1f19b6b1f31d69dcfaaf6cd&key=843e228ab109e9aa6c4822ee4ad05d7d
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://static.mncnow.id/images/channel/516c7676/3afe.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] MNC SPORTS 2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fadd2720deff5925ab86df0819cd7775&key=f67ff08c7ebc779f6a6fcfc83835f65b
+#EXTINF:-1 tvg-id="MNCSports3.id" tvg-logo="https://static.mncnow.id/images/channel/35c55405/ccb0.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] MNC SPORTS 3
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4d38060bf41b3c29df0ec950ece6b5da&key=7ee9506b13480491d79b71c062ab5366
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://static.mncnow.id/images/channel/d740c649/a327.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[SPORTS] SOCCER CHANNEL
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0bea88ab972e06760a04712cc423d841&key=4039d607f88f1b1f677e4beb6ee66637
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://static.mncnow.id/images/channel/825ba442/de54.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[MUSIC] MUSIC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eefa1c34afba72f8fe902b061632528f&key=334cde07f6ebe092c0ae0521591d73cf
+#EXTINF:-1 tvg-id="MuslimTV.id" tvg-logo="https://static.mncnow.id/images/channel/67bf9750/1608.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[RELIGION] MUSLIM TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cdd9eab3335c9abd97e27d89852d8ee5&key=1a88565a73164fd886dd0e7fe66059b8
+#EXTINF:-1 tvg-id="Life.id" tvg-logo="https://static.mncnow.id/images/channel/bc693bc3-014.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[RELIGION] LIFE
+https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=67fe3ac3ca111c9bdd6e8480091dc13c&key=7d05fb1ff7705c1e452ff7e1b841a1b8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://static.mncnow.id/images/channel/ec83b9fb-76f.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[RELIGION] AL QURAN AL KAREEM
+https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cb2393dc078c4b708cce148304db1ea7&key=78437d7ccfe7a3a220c53180eb5bdeb1
+#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://static.mncnow.id/images/channel/2a13b085-d18.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[RELIGION] EWTN
+https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce1a653fafa780cd4a8747c08872e3ab&key=d83bcf72b3f5a3d09674602b06caaa71
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://static.mncnow.id/images/channel/32f7fe21-ce6.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[RELIGION] TV9
+https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1acfe74d40e91e0368324b074c256bab&key=f3211e3f8079a8584ac77afda2b0e119
+#EXTINF:-1 tvg-id="Reformed21.id" tvg-logo="https://static.mncnow.id/images/channel/ce004513/1a89.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[RELIGION] REFORMED 21
+https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fa7625e3470d5e9429f64150614f9a5&key=c495ad0e82e2266fd207934327c71ce3
+#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://static.mncnow.id/images/channel/6e34c573-fd3.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[RELIGION] TVMU (TVMUHAMMADIYAH)
+https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=552bc18038d025c26ead432fa521f83a&key=beab0589d5f15d4a56278c7df913b263
+#EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://static.mncnow.id/images/channel/0a9f9dab/9715.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[RELIGION] TAWAF TV
+https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05457a5e16a76fe666a22cc7ae2c6548&key=626e37901bfb985e994d714e9f9de1b5
+#EXTINF:-1 tvg-id="NationalGeographicHDIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_450.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] NATIONAL GEOGRAPHIC
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c3066eaa0984588f78d12dcdb75ef88b&key=4e98eb4927941bff51ea526d223fa16d
+#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] NAT GEO WILD
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8b27270c10422acdf2b70c296c8ddb29&key=32ca577ab5b577a31cc61eb847642fa8
+#EXTINF:-1 tvg-id="DiscoveryChannelHDIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_462.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] DISCOVERY CHANNEL
+https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ccc52e94c493492773612a04fa3a1ae1&key=adf87643eef60a4df18d69044a970d66
+#EXTINF:-1 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] ANIMAL PLANET
+https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4472db9a36186f11703d04a4adbbf279&key=f00791bacba0575927de6cf15cfcd9d9
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://static.mncnow.id/images/channel/7e7255a1/4f8d.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] DW
+https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a1e24a95166906be942d9704b5f7a132&key=8bc3f55a23540aad064b27f2ca5d4e26
+#EXTINF:-1 tvg-id="Besmart.id" tvg-logo="https://static.mncnow.id/images/channel/bb3aa08a-680.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] BESMART
+https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62ce01c83653c3f20af6bcafc6979fe6&key=f1325e71f440c06f7e93d7551cb4014a
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://static.mncnow.id/images/channel/18f76615/81bd.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] NHK WORLD JAPAN
+https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c154c12b5f8336cc9cbef82fb5cc0ab4&key=5c365427c75eacf217255effcb5fff3e
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-logo="https://static.mncnow.id/images/channel/594d5856-aed.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] BBC EARTH
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2ccaa7d9731c2e69fa5344c5a547b836&key=d23fb6a3c73eb7ab8ad19ca841db0fb5
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-logo="https://static.mncnow.id/images/channel/001b773e-260.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] HISTORY
+https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dc6157edc80fa15e6b6f23e695d461e4&key=7c068dd99c87e0ab1efc635bb77adcb4
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-logo="https://static.mncnow.id/images/channel/07f1e128-ed4.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] CRIME INVESTIGATION
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=87354c602dcabe0eef472f2a68f6685a&key=518ecaa33b9f05494f8cfaa7dd56a968
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://static.mncnow.id/images/channel/5dea9eba/cbc8.PNG" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[KNOWLEDGE] CGTN DOCUMENTARY
+https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8bd8efd4840c37f50f8a053f92e9b015&key=7f8b3b508bb394919dab1b6e91e7bacf
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-logo="https://static.mncnow.id/images/channel/093740bc/50b6.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[LIFESTYLE] LIFETIME
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eeba2c9c08078d2a729328dbcd1e002b&key=19090336609b8f4fee1e7aea837a10d9
+#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-logo="https://static.mncnow.id/images/channel/dc0cd99f/ecf4.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[LIFESTYLE] LIFESTYLE FASHION
+https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a17bbb3d95ba22f0fa680bba609340f6&key=cb682391dc1830d2cec8ca9d4ce681cc
+#EXTINF:-1 tvg-id="Ie.id" tvg-logo="https://static.mncnow.id/images/channel/45c86881/d0a3.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[LIFESTYLE] INFOTAINMENT
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a2fc87440d5dc4bcd4dbc55e75ccf057&key=3a07bba8c6f8bf5ae4e39763b6fcc1f9
+#EXTINF:-1 tvg-id="MShopSignature.id" tvg-logo="https://static.mncnow.id/images/channel/6c8b7aa4/4577.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[LIFESTYLE] MSHOP SIGNATURE
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7e1d75138efd44969abf01914a47ff54&key=d0c52fed5210338569837a61e3e0b675
+#EXTINF:-1 tvg-id="MShopSuperSale.id" tvg-logo="https://static.mncnow.id/images/channel/d35cc21f/0e91.png" group-title="VISIONPLUS | Indonesia" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[LIFESTYLE] MSOP SUPER SALE
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd|referer=https://www.visionplus.id/
