@@ -48,12 +48,23 @@ There was an unexpected error
 
 
 #EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="YOYO TV",DISCLAMER
-https://0405210.tlwb005.xyz/#/play/20919
+https://l.top4top.io/m_3372yzsto1.mp4
 
-#EXTINF:-1 tvg-logo="rcti hd" group-title="Indonesia Channels",RCTI
+#EXTINF:-1 tvg-logo="rcti hd" group-title="Indonesia Channels",rcti 🔴
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="Indonesia Channels",RCTI
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",Moji 🔴
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="Indonesia Channels",HITS NOW 🔴
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="Indonesia Channels",Catholic TV 🔴
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
@@ -68,8 +79,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/910
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Indonesia Channels",MOJI TV
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",Moji (indhom)
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="Indonesia Channels",DAAI TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia Channels",Kompas TV HD
@@ -94,8 +104,7 @@ https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.m
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/943/49943-SNAPSHOT-l.png" group-title="Indonesia Channels",Reformed21
 https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="Indonesia Channels",Catholic TV
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-l.png" group-title="Indonesia Channels",EWTN
 https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
 #EXTINF:-1 tvg-logo="https://gms.church/images/gms/short-white.svg" group-title="Indonesia Channels",GMS HD
@@ -176,8 +185,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299
 https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="Indonesia Channels",HITS NOW
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="Indonesia Channels",HITS NOW 1
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/74/Rai_Italia_-_Logo_2017.png/revision/latest/thumbnail/width/360/height/360?cb=20190730144317" group-title="Indonesia Channels",RAI ITALIA
 https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Indonesia Channels",Asian Food Network
@@ -214,12 +222,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="Indonesia Channels",MTV Live HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
+
 #EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="BRI LIGA",YT  PUTRA TALAWI
 https://youtube.com/@PutraTalawi-s9m
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA",BRI LIGA 1
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cookielaw.org/logos/bf436f69-02f0-4281-9e2b-35cd64d89186/cafcd182-c949-4a67-bad4-ea17ad21984a/800757f9-3ea3-4055-8dbe-e0408b3c4622/LIVESPORT_LOGO_RED_RGB_(1).png" group-title="BRI LIGA",LIVE
 http://extraott-iptv.com:88/live/0229477349/8104258135/400200761.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="TRANSVISION 1",YT  PUTRA TALAWI
 https://youtube.com/@PutraTalawi-s9m
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="TRANSVISION 1",TRANS TV
